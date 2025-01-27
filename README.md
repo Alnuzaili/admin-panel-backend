@@ -25,7 +25,7 @@ An Express-based RESTful API with TypeScript and Prisma , managing both authenti
 
 ## Icoming Features
 
-- [ ] API Documentation Using Swagger
+- [x] API Documentation Using Swagger
 
 - [ ] Sanitize queries against SQL Injection and XSS
 
